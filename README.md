@@ -1,2 +1,2 @@
-# sample_java
-small examples of java programming
+# sampleinterfacejava
+small examples of interface java programming 
